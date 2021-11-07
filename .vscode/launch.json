@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ExceptionDemo",
+            "request": "launch",
+            "mainClass": "ExceptionDemo",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Remove",
+            "request": "launch",
+            "mainClass": "Remove",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FUN",
+            "request": "launch",
+            "mainClass": "FUN",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch scooter",
+            "request": "launch",
+            "mainClass": "scooter",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Company",
+            "request": "launch",
+            "mainClass": "Company",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numberpattern2",
+            "request": "launch",
+            "mainClass": "Numberpattern2",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberPattern1",
+            "request": "launch",
+            "mainClass": "NumberPattern1",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeString",
+            "request": "launch",
+            "mainClass": "PalindromeString",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern12",
+            "request": "launch",
+            "mainClass": "StarPattern12",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern11",
+            "request": "launch",
+            "mainClass": "StarPattern11",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern10",
+            "request": "launch",
+            "mainClass": "StarPattern10",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern9",
+            "request": "launch",
+            "mainClass": "StarPattern9",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern8",
+            "request": "launch",
+            "mainClass": "StarPattern8",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern7",
+            "request": "launch",
+            "mainClass": "StarPattern7",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern6",
+            "request": "launch",
+            "mainClass": "StarPattern6",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern5",
+            "request": "launch",
+            "mainClass": "StarPattern5",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern4",
+            "request": "launch",
+            "mainClass": "StarPattern4",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern3",
+            "request": "launch",
+            "mainClass": "StarPattern3",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern2",
+            "request": "launch",
+            "mainClass": "StarPattern2",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog1",
+            "request": "launch",
+            "mainClass": "Prog1",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog2",
+            "request": "launch",
+            "mainClass": "Prog2",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_string",
+            "request": "launch",
+            "mainClass": "Reverse_string",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern1",
+            "request": "launch",
+            "mainClass": "StarPattern1",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_bubblesort",
+            "request": "launch",
+            "mainClass": "String_bubblesort",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubblesort_refinemethod",
+            "request": "launch",
+            "mainClass": "bubblesort_refinemethod",
+            "projectName": "Java Basics_d88294a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "Java Basics_d88294a7"
+        }
+    ]
+}
